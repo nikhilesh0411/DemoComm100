@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41978" started-at="2021-02-28T12:09:36Z" finished-at="2021-02-28T12:10:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41978" started-at="2021-02-28T12:09:36Z" finished-at="2021-02-28T12:10:18Z">
+      <class name="TestSuites">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites@4f933fd1]" name="setup" is-config="true" duration-ms="7459" started-at="2021-02-28T12:09:36Z" finished-at="2021-02-28T12:09:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="EmailBlank()[pri:0, instance:TestSuites@4f933fd1]" name="EmailBlank" duration-ms="5259" started-at="2021-02-28T12:09:43Z" finished-at="2021-02-28T12:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailBlank -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites@4f933fd1]" name="setup" is-config="true" duration-ms="6175" started-at="2021-02-28T12:09:49Z" finished-at="2021-02-28T12:09:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="InLogin()[pri:0, instance:TestSuites@4f933fd1]" name="InLogin" duration-ms="5386" started-at="2021-02-28T12:09:55Z" finished-at="2021-02-28T12:10:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InLogin -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites@4f933fd1]" name="setup" is-config="true" duration-ms="6005" started-at="2021-02-28T12:10:00Z" finished-at="2021-02-28T12:10:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="PasswordBlank()[pri:0, instance:TestSuites@4f933fd1]" name="PasswordBlank" duration-ms="5311" started-at="2021-02-28T12:10:06Z" finished-at="2021-02-28T12:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PasswordBlank -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestSuites@4f933fd1]" name="setup" is-config="true" duration-ms="6038" started-at="2021-02-28T12:10:12Z" finished-at="2021-02-28T12:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidLogin()[pri:0, instance:TestSuites@4f933fd1]" name="ValidLogin" duration-ms="322" started-at="2021-02-28T12:10:18Z" finished-at="2021-02-28T12:10:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLogin -->
+      </class> <!-- TestSuites -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
